@@ -1,2 +1,2 @@
 # SprintBoot_demo
-This is my first projetc in JAVA SpringBoot 
+This is my first project in JAVA SpringBoot 
